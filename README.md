@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Mariano7M/StatsCard)
-- Live Site URL: [](https://mariano7m.github.io/StatsCard/)
+- Solution URL: [GitHub Repository](https://github.com/Mariano7M/StatsCard)
+- Live Site URL: [GitHub page](https://mariano7m.github.io/StatsCard/)
 
 ## My process
 
